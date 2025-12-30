@@ -1,0 +1,5 @@
+{
+  "name": "Corrida NEO Proyecto",
+  "description": "Una herramienta interactiva para planificar y visualizar costos, beneficios y rentabilidad de proyectos. Analiza el costo-beneficio, VAN, TIR y Payback con gráficos dinámicos y reportes detallados.",
+  "requestFramePermissions": []
+}
